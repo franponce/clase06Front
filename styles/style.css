@@ -1,0 +1,60 @@
+.top {
+  background-color: #000000;
+  padding: 19px;
+}
+
+.textotop {
+  position: absolute;
+  width: 138px;
+  height: 12px;
+  left: auto;
+  top: 4px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #f3f3f3;
+}
+
+.selectidioma {
+    position: absolute;
+    left: 882px;
+    top: 17px;
+      
+}
+
+.selectprecio {
+    position: absolute;
+    left: 938px;
+    top: 17px;
+    
+}
+
+li {
+  display: inline;
+}
+
+.clase2 {
+  background-color: #f0a83e;
+}
+
+.contenedorimg {
+  width: 1025px;
+  height: 409px;
+  margin: 0 auto;
+}
+
+.imgslide {
+  width: 100%;
+  height: auto;
+}
+
+.contenidoslide {
+  text-align: right;
+
+  justify-content: baseline;
+}
